@@ -4,4 +4,4 @@ The website will consist of a main index page which will have links to a few rec
 
 Part of The Odin Project's Foundations Course
 
-*These recipes are very much pagarized from various sites. Chill out, its a simple assignment.
+*These recipes are very much plagarized from various sites. Chill out, its a simple assignment.
