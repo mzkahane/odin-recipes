@@ -1,6 +1,6 @@
 * {
     font-family:cursive;
-    font-size: 30px;
+    font-size: 20px;
     background-color: lightsteelblue;
 }
 
@@ -10,8 +10,27 @@ h1 {
     font-size: 50px;
 }
 
+h2 {
+    text-decoration: underline;
+}
+
+.Ingredients li {
+    font-size: 20px;
+    margin-top: 0;
+    text-align: start;
+}
+
 ul {
-    margin-top:10%;
+    font-size: 50px;
     text-align: center;
     list-style-position: inside;
+}
+
+a {
+    font-size: 30px;
+}
+
+img {
+    display: block;
+    margin: auto;
 }
